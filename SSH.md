@@ -1,4 +1,5 @@
-*SSH*
+#SSH#
+
 En esta lección aprenderemos a inicializar un repositorio GIT y a probar (commit) ficheros en el control de versiones.
 
 El control de versiones te permite grabar cambios en un fichero o grupo de ficheros permitiendo volver atrás a una versión específica si se requiere.
